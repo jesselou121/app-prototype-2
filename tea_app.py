@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from graphviz import Digraph
 
-#notes 2
+#notes update
 
 # Define constants
 HOURS_PER_YEAR = 8000  # Assuming 8000 operating hours per year
